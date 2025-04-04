@@ -1,0 +1,11 @@
+openai-whisper
+librosa
+torchaudio
+transformers
+scikit-learn
+language-tool-python
+matplotlib
+seaborn
+pandas
+numpy
+ffmpeg-python
