@@ -9,3 +9,6 @@ seaborn
 pandas
 numpy
 ffmpeg-python
+tqdm
+xgboost
+lightgbm
