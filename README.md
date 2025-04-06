@@ -7,7 +7,6 @@ This repository contains the implementation of a regression model to predict SHL
 ```
 SHL-Audio-Scoring/
 ├── dataset/              # Training and testing datasets
-├── models/            # Saved model artifacts
 ├── notebook/         # Jupyter notebooks for exploration
 ├── src/               # Source code for training
 ├── reports
